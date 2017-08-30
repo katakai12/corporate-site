@@ -124,7 +124,7 @@ header{
              
              @media screen and(-webkit-min-device-pixel-ratio:2),
              (min-resolution: 2dppx){
-                 background-image: url("../images/top/navi_top@2x/png");
+                 background-image: url("../images/top/navi_top@2x.png");
              
          }
          
@@ -697,3 +697,9 @@ h1{
 
 }
 
+
+ iframe{
+     
+     width: 100%;
+     
+ }
